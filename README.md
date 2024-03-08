@@ -39,28 +39,9 @@ This project focuses on building a conversational assistant powered by a Large L
 
 To get started with this project, follow these steps:
 
-1. Clone the repository from [GitHub link].
+1. Clone the repository from [https://github.com/ShazaAzher/LLM-Powered-Wikipedia-Chat-Assistant-with-RAG.git].
 2. Install the necessary dependencies using pip.
 3. Obtain an OpenAI access token.
 4. Set up the required configurations.
 5. Run the project and start interacting with the chat assistant.
 
-## Contributions
-
-Contributions to this project are welcome. Please fork the repository, make changes, and submit a pull request for review.
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- [List of contributors or resources]
-- [Any acknowledgments]
-
-## Contact
-
-For any inquiries or support, please contact [email address].
-
-[GitHub link]: <https://github.com/example>
-[License Name]: <Link to License>
